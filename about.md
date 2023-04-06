@@ -1,40 +1,26 @@
----
-title: About
-layout: page
----
-<!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Software Engineer with over 4 years of industry experience and currently pursuing my Master's in Computer Science at NYU Courant. Throughout my career, I have developed a strong foundation in software development principles and have successfully delivered projects using a variety of technologies such as Java, Python, and Angular. My expertise lies in developing scalable and reliable software solutions that meet the needs of the business and end-users. As a lifelong learner, I am always seeking new opportunities to grow and expand my skill set. I am excited to bring my expertise and experience to a dynamic and challenging environment where I can continue to learn and make an impact</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>Java</li>
 	<li>Python</li>
+	<li>C++</li>
+	<li>HTML,CSS</li>
+	<li>TypeScript</li>
+	<li>Git</li>
+	<li>Docker</li>
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Test Driven Development</li>
 </ul>
 
 <h2>Projects</h2>
-TBD
+<ul>
+	<li><a href="https://github.com/](https://github.com/rushab-shah/DistributedDatabaseSim">Replicated Concurrency Control and Recovery for a Simulated Distributed Database</a></li>
+<!-- 	<li><a href="https://github.com/">D</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li> -->
+</ul>
