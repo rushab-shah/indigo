@@ -6,7 +6,8 @@
 ## Hello there, I'm Rushab! 👋
 
 ### 💻 About Me 
-- I'm a CS student at NYU Courant with 4 years of experience in software development & engineering. Currently, I'm about to graduate and am open to full-time SDE roles
+- I'm a CS student at NYU Courant with 4 years of experience in software development & engineering
+- Currently, I'm about to graduate and am open to full-time SDE roles
 
 ### 🎓 Education
 - Pursuing Master's in Computer Science at NYU Courant
