@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/rushab-nyc.pdf
 
-url: https://github.com/rushab-shah/
+url: https://rushab-shah.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
