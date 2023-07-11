@@ -1,7 +1,7 @@
 ## Welcome, I'm Rushab! 👋
 
 ### 🖥️ Who I Am 
-- 🎓 A recent Computer Science graduate from NYU Courant with over 4 years of industry experience as a Software Engineer.
+- 🎓 A recent CS graduate from NYU Courant with over 4 years of industry experience as a Software Engineer.
 - 🌍 Currently located in the USA and open to exciting full-time SDE roles.
 
 ### 🎓 My Education
