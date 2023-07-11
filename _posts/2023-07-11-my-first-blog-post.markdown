@@ -10,7 +10,7 @@ tag:
 - extra
 category: blog
 author: Rushab
-hidden: false
+hidden: true
 description: First Blog Post
 ---
 
