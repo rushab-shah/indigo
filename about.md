@@ -32,4 +32,9 @@
 Here are some of the projects I've worked on:
 
 - 📄 [Research Paper Insight Extraction using OpenAI APIs](https://github.com/rushab-shah/research-insights-extractor)
+
 - 💾 [Replicated Concurrency Control and Recovery for a Simulated Distributed Database](https://github.com/rushab-shah/DistributedDatabaseSim)
+
+- 🛍️ [e-Commerce Product Recommendations](https://github.com/CSCI-GA-2820-SP23-003/recommendations)
+
+- 📊 [Analyzing the correlation between co-morbidities and COVID-19 deaths](https://github.com/rushab-shah/DataVisualizationProject)
