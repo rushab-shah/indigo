@@ -1,15 +1,11 @@
 ---
-# blog page must be named index.html and in its own folder to support pagination
-# https://jekyllrb.com/docs/pagination/
 layout: page
 title: Blog
-pagination:
-  enabled: true
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
-	{% elsif site.pagination.enabled %}
+	{% else %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
@@ -18,14 +14,17 @@ pagination:
 			{% endif %}
 		{% endfor %}
 
-		{% include pagination.html%}
-	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
+		<div class="pagination">
+			{% if paginator.previous_page %}
+				<a href="{{ paginator.previous_page_path }}">Previous</a>
+			{% else %}
+				<span class="previous disabled">Previous</span>
 			{% endif %}
-		{% endfor %}
+			{% if paginator.next_page %}
+				<a href="{{ paginator.next_page_path }}">Next</a>
+			{% else %}
+				<span class="next disabled">Next</span>
+			{% endif %}
+		</div>
 	{% endif %}
 </section>
