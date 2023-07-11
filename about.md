@@ -1,6 +1,6 @@
 ## Welcome, I'm Rushab! 👋
 
-### 🖥️ Who I Am 
+### 🖥️ About Me
 - 🎓 A recent CS graduate from NYU Courant with over 4 years of industry experience as a Software Engineer.
 - 🌍 Currently located in the USA and open to exciting full-time SDE roles.
 
@@ -24,7 +24,11 @@
 - 📚 Read tech blogs and articles for latest updates.
 - 🎓 Take online courses to learn new technologies and improve skills. -->
 
-## My Projects
+## 🏆 Awards
+- **Young Achiever Award** - Issued by IBM India Pvt. Ltd. in May 2018
+- **Manager's Choice Award** - Issued by IBM India Pvt. Ltd. in Nov 2017
+
+## 📚 My Projects
 Here are some of the projects I've worked on:
 
 - 📄 [Research Paper Insight Extraction using OpenAI APIs](https://github.com/rushab-shah/research-insights-extractor)
