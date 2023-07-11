@@ -1,15 +1,17 @@
 ---
+title: "Markdown Extra Components"
 layout: post
-title:  "My First Blog Post"
-date:   2023-07-11
-category: blog
+date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
-- elements
-author: Rushab Shah
-hidden: false
+- components
+- extra
+category: blog
+author: rushab
+hidden: true
+description: Markdown summary with different options
 ---
 
 # Welcome to my blog!
