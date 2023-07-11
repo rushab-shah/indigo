@@ -39,7 +39,6 @@
 
 <h2>Projects</h2>
 <ul>
-	<li><a href="https://github.com/](https://github.com/rushab-shah/DistributedDatabaseSim">Replicated Concurrency Control and Recovery for a Simulated Distributed Database</a></li>
-<!-- 	<li><a href="https://github.com/">D</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li> -->
+	<li><a href="https://github.com/rushab-shah/research-insights-extractor">Research Paper Insight Extraction using OpenAI APIs</a></li>
+	<li><a href="https://github.com/rushab-shah/DistributedDatabaseSim">Replicated Concurrency Control and Recovery for a Simulated Distributed Database</a></li>
 </ul>
