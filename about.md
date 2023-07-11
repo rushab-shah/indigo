@@ -1,44 +1,31 @@
+## Welcome, I'm Rushab! 👋
 
-<!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
-<!-- 
-<p>Software Engineer with over 4 years of industry experience and currently pursuing my Master's in Computer Science at NYU Courant. Throughout my career, I have developed a strong foundation in software development principles and have successfully delivered projects using a variety of technologies such as Java, Python, and Angular. My expertise lies in developing scalable and reliable software solutions that meet the needs of the business and end-users. As a lifelong learner, I am always seeking new opportunities to grow and expand my skill set. I am excited to bring my expertise and experience to a dynamic and challenging environment where I can continue to learn and make an impact</p>
- -->
-## Hello there, I'm Rushab! 👋
+### 🖥️ Who I Am 
+- 🎓 A recent Computer Science graduate from NYU Courant with over 4 years of industry experience as a Software Engineer.
+- 🌍 Currently located in the USA and open to exciting full-time SDE roles.
 
-### 💻 About Me 
-- I'm a recent CS graduate from NYU Courant with 4+ years of experience in software development & engineering
-- Currently, I'm am open to full-time SDE roles
+### 🎓 My Education
+- 💡 Master's degree in Computer Science from the esteemed NYU Courant.
+- 💻 Bachelor's degree in Computer Engineering from the Pune Institute of Computer Technology.
 
-### 🎓 Education
-- Master's degree in Computer Science at NYU Courant
-- Bachelor's degree in Computer Engineering from Pune Institute of Computer Technology
+### 🔧 My Skills
+- 🌐 Fluent in multiple languages: Java, Python, C++, and more.
+- 💻 Proficient in web technologies: Angular, HTML/CSS, TypeScript.
+- ⚙️ Familiar with Git, Docker, MySQL, MongoDB, Agile methodologies, and Test-Driven Development.
 
-### 🔧 Skills
-- Java
-- Python
-- C++
-- Angular
-- HTML/CSS
-- TypeScript
-- Git
-- Docker
-- MySQL and MongoDB
-- Agile
-- Test Driven Development
-
-### 🚀 Work Experience
-- Intern at choreograph (a WPP Company) (2022)
-- Software Engineer at Precisely (2019 - 2021)
-- Software Developer at IBM (2017 - 2019)
-- Intern at IBM (2016 - 2017)
+### 🚀 My Journey So Far
+- 🎖️ Internship at Choreograph, a WPP Company (2022).
+- 🛠️ Software Engineer at Precisely (2019 - 2021).
+- 💡 Software Developer at IBM (2017 - 2019).
+- 🎓 Internship at IBM (2016 - 2017).
 
 <!-- ### 📚 Lifelong Learning
-- Attending tech conferences and workshops
-- Reading tech blogs and articles
-- Taking online courses to learn new technologies -->
+- 📅 Regularly attend tech conferences and workshops.
+- 📚 Read tech blogs and articles for latest updates.
+- 🎓 Take online courses to learn new technologies and improve skills. -->
 
-<h2>Projects</h2>
-<ul>
-	<li><a href="https://github.com/rushab-shah/research-insights-extractor">Research Paper Insight Extraction using OpenAI APIs</a></li>
-	<li><a href="https://github.com/rushab-shah/DistributedDatabaseSim">Replicated Concurrency Control and Recovery for a Simulated Distributed Database</a></li>
-</ul>
+## My Projects
+Here are some of the projects I've worked on:
+
+- 📄 [Research Paper Insight Extraction using OpenAI APIs](https://github.com/rushab-shah/research-insights-extractor)
+- 💾 [Replicated Concurrency Control and Recovery for a Simulated Distributed Database](https://github.com/rushab-shah/DistributedDatabaseSim)
