@@ -3,6 +3,13 @@ layout: post
 title:  "My First Blog Post"
 date:   2023-07-11
 category: blog
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+author: Rushab Shah
+hidden: false
 ---
 
 # Welcome to my blog!
